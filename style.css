@@ -1,3 +1,10 @@
-p {
-    background-color: red;
+
+#blue {
+    color: blue;
+}
+h2,p {
+    color: brown;
+}
+ul {
+    color: pink;
 }
