@@ -3,6 +3,12 @@
     height: 200px;
     width: 300px;
     position: absolute;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: blue;
 
 }
 .second {
@@ -11,11 +17,24 @@
     width: 300px;
     position: absolute;
     left: 400px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: darkblue;
 }
 .third {
     background-color: green;
     height: 200px;
     width: 300px;
     position: absolute;
-    left: 850px
+    left: 850px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: blue;
+
 }
